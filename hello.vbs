@@ -1,2 +1,2 @@
-''Visual Basic Script
+''VBScript
 Wscript.echo "Hello World!"

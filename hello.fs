@@ -1,0 +1,2 @@
+﻿//F#
+printfn "Hello World!"
