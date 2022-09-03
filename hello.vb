@@ -1,4 +1,4 @@
-'Visual Basic
+'Visual Basic .NET
 Module HelloWorld
 	Sub Main()
 		Console.WriteLine("Hello World!")
