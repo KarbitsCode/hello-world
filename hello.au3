@@ -1,2 +1,3 @@
 ;Autoit Script
-ConsoleWrite("Hello World!")
+#NoTrayIcon
+ConsoleWrite("Hello World!" & @LF)
