@@ -1,2 +1,2 @@
-﻿//F#
+//F#
 printfn "Hello World!"
