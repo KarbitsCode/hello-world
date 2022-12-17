@@ -1,4 +1,4 @@
 !Fortran
 program hello
-  print *, 'Hello World!'
+  write(*,"(A)") 'Hello World!'
 end program hello
